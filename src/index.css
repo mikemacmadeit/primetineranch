@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Set the actual default body background */
+body {
+  @apply bg-charcoal text-tan; /* or bg-gunmetal if that’s your base */
+}
