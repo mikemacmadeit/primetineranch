@@ -127,7 +127,7 @@ const Contact = () => {
           <div>
             <h2 className="text-5xl font-black text-tan mb-12 tracking-wide font-heading">GET IN TOUCH</h2>
             <div className="space-y-10">
-              {/* Custom Phone Section with Two Contacts */}
+              {/* Phone */}
               <div className="flex items-start space-x-6 group">
                 <div className="bg-bronze p-6 rounded-full flex-shrink-0 group-hover:scale-110 transition-transform duration-300">
                   <Phone className="w-8 h-8 text-tan" />
@@ -137,13 +137,13 @@ const Contact = () => {
                   <div className="space-y-4">
                     <div>
                       <p className="text-tan text-lg font-semibold leading-tight">
-                        Ranch Manager – <span className="text-tan/80 font-medium">Kamiryn Winters</span>
+                        Contact Manager – <span className="text-tan/80 font-medium">Heath Lovell</span>
                       </p>
                       <a
-                        href="tel:+19363337592"
+                        href="tel:+19365455097"
                         className="text-tan/70 hover:text-bronze text-lg font-medium transition-colors duration-300"
                       >
-                        (936) 333-7592
+                        (936) 545-5097
                       </a>
                     </div>
                   </div>

@@ -88,13 +88,13 @@ Superior genetics, record-class game, and a 100% opportunity rate.
     <Phone className="w-4 h-4 mt-1 text-bronze flex-shrink-0" />
     <div>
       <p className="text-tan text-sm font-semibold leading-tight">
-        Ranch Manager – <span className="text-tan/80 font-medium">Kamiryn Winters</span>
+        Contact Manager – <span className="text-tan/80 font-medium">Heath Lovell</span>
       </p>
       <a
-        href="tel:+19363337592"
+        href="tel:+19365455097"
         className="text-tan/70 hover:text-tan text-sm font-medium transition-colors duration-300"
       >
-        (936) 333-7592
+        (936) 545-5097
       </a>
     </div>
   </div>
