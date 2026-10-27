@@ -158,7 +158,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-2xl font-black text-tan mb-2 font-heading">Email</h3>
                   <a href="mailto:info@primetineranch.com" className="text-tan/80 text-xl hover:text-bronze transition-colors font-medium block mb-2">
-                    primetinehunts@gmail.com
+                    info@primetineranch.com
                   </a>
                   <p className="text-tan/60 text-lg">Send us a detailed message</p>
                 </div>

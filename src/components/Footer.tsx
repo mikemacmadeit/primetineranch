@@ -107,7 +107,7 @@ Superior genetics, record-class game, and a 100% opportunity rate.
                   href="mailto:info@primetineranch.com"
                   className="text-tan/80 hover:text-tan text-sm font-medium transition-colors duration-300"
                 >
-                  primetinehunts@gmail.com
+                  info@primetineranch.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">

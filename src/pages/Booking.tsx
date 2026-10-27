@@ -350,7 +350,7 @@ const Booking = () => {
                   <div className="flex items-center space-x-3">
                     <Mail className="w-5 h-5 text-bronze" />
                     <a href="mailto:info@primetineranch.com" className="text-tan hover:text-bronze transition-colors text-lg font-medium">
-                      primetinehunts@gmail.com
+                      info@primetineranch.com
                     </a>
                   </div>
                 </div>
